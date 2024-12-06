@@ -42,7 +42,7 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![alt text](<Screenshot 2024-12-06 102349.png>)](<video controls src="Video Project.mp4" title="Title"></video>)
+[![alt text](<Screenshot 2024-12-06 102349.png>)](https://www.veed.io/view/73e70bef-b345-433b-8315-a886e8c9bda5?panel=)
 
 ## Description
 
