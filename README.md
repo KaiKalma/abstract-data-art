@@ -48,3 +48,5 @@ Since youtube is blocked, right click on the image and click "open link in new t
 ## Description
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+
+This project teaches information about Ivy League colleges with visuals and sounds that include a map and a trivia game. It uses 1D arrays to store information such as college names, funding, and staff. It runs using multi selection statements to decides sizes of images on the screen. It also uses math class methods to compare different integers and doubles. We also added sounds such as clapping and drum rolls to make it more exciting. In the future, we could add a way for users to answer questions and interact more using the scanner class.
